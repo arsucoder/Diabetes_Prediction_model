@@ -1,7 +1,9 @@
 Diabetes Prediction Model
+
 A machine learning project aimed at predicting the likelihood of diabetes in patients based on diagnostic health measurements. This model leverages supervised learning techniques to assist in early detection and preventive healthcare.
 
 Project Overview
+
 This project uses the PIMA Indians Diabetes Dataset, which contains medical diagnostic measurements for female patients of at least 21 years old. The goal is to build a predictive model that can classify whether a patient is likely to have diabetes.
 
 📊 Dataset
